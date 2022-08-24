@@ -1,3 +1,5 @@
 # Ignora los archivos relacionados a API keys
 .env
 
+# dependencies
+/node_modules
